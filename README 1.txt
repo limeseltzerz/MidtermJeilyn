@@ -1,5 +1,0 @@
-The game is relatively simple, you have to collect all the coins in the scene and dodge the hazards / red objects in order to win the game. You move around with WASD.
-
-As for Mechanics, I took a little bit of creative liberty with the pea-sized knowledge I store in my head and used scale properties for hazards so that they could get bigger and smaller, allowing the player to pass through without getting hit. I also added a rotation bar that would force the player to wait for an opening, some hazards that would fall out of the sky after a certain trigger ( I was too swamped to code how they could get triggered, so I set them to fall after a timer ), a hazard that moves left to right ( inspired by those pesky final fantasy guards in FFXII ), and a silly little Game Over screen with audio attached to it.
-
-If I had more time I would code in a timer, fade the game over screen in and out, and properly code certain hazards so that they could be set off by a trigger, such as the player getting close. I also wanted to make it possible for the player to jump, but I was, again, tired and figuring out how to code it was taking me too long.
